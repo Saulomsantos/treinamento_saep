@@ -23,11 +23,7 @@ namespace Senai.LanHouse.Web.Razor.Contextos
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlServer("Server=LAB08DESK4001;Database=Lan_House; User Id=sa; pwd=132");
-            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
