@@ -15,9 +15,9 @@ CREATE TABLE Equipamento(
 CREATE TABLE Defeito(
 	defeitoId INT IDENTITY(1,1) PRIMARY KEY NOT NULL
 	,dataDefeito DATETIME2 NOT NULL
+	,equipamentoId INT FOREIGN KEY REFERENCES Equipamento(equipamentoId) NOT NULL
+	,tipoDefeitoId INT FOREIGN KEY REFERENCES TipoDefeito(tipoDefeitoId) NOT NULL
 	,observacao VARCHAR(255) NOT NULL
-	,tipoDefeitoId INT FOREIGN KEY REFERENCES TipoDefeito(tipoDefeitoId)
-	,equipamentoId INT FOREIGN KEY REFERENCES Equipamento(equipamentoId)
 );
 
 CREATE TABLE Usuario(

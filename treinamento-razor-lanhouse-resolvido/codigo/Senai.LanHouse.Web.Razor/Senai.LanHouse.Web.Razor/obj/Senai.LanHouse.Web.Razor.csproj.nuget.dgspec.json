@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\39893838843\\Downloads\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor.csproj": {}
+    "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\39893838843\\Downloads\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor.csproj": {
+    "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\39893838843\\Downloads\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor.csproj",
+        "projectUniqueName": "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor.csproj",
         "projectName": "Senai.LanHouse.Web.Razor",
-        "projectPath": "C:\\Users\\39893838843\\Downloads\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor.csproj",
-        "packagesPath": "C:\\Users\\39893838843\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\39893838843\\Downloads\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\obj\\",
+        "projectPath": "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor.csproj",
+        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\Cursos\\senai_desenvolvimento\\2s2019\\treinamento_saep\\treinamento-razor-lanhouse-resolvido\\codigo\\Senai.LanHouse.Web.Razor\\Senai.LanHouse.Web.Razor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\39893838843\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
